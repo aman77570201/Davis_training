@@ -1,4 +1,0 @@
-  Create a documentation using CHATGPT :
-Prompt: I want to read a text file present in github repository into python in GoogleColab.
---------------------------------------------------------------------------------
-Prepare a documentation for it.
